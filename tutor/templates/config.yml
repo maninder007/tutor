@@ -7,7 +7,7 @@ ANDROID_OAUTH2_SECRET: "{{ 24|random_string }}"
 ID: "{{ 24|random_string }}"
 
 # This must be defined early
-LMS_HOST: "www.myopenedx.com"
+LMS_HOST: "plrn.in"
 
 # The following are default values
 ACTIVATE_LMS: true
